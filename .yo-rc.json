@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.exxeta.we.vs.virus"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "SuTi",
+    "packageName": "com.exxeta.we.vs.virus",
+    "packageFolder": "com/exxeta/we/vs/virus",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzU4ZjhlOTkwMDdhM2FhNTE0ODk3YzIyMGE0ODE4MzBjZDhhZjY1NjdiODk2MzA2OGJmNzI0NDI1ZmU0ODcwMWUwMzQ2N2FlODE2YzE2OTY3MjY2OGM1ZTc3NzAxYjcyNDFiOWUwY2VhMWU4OWRjNTU1NDFiZDJlMGFmNjc0MTE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1584806201726,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
